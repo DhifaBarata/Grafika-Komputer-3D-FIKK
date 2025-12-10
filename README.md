@@ -1,13 +1,14 @@
 README – Proyek Grafika Komputer 3d FIKK (OpenGL / GLUT)
+
 🏫 Mata Kuliah: Grafika Komputer
 👨‍🏫 Dosen Pengampu: Muhammad Sonhaji Akbar, S.Pd., M.Kom.
 📅 Tahun Akademik: 2024/2025 PTI C
+
 👥 Anggota Kelompok
 No	Nama Lengkap	NIM
-1	Ericha Okti Virlya Meyjie	24050974072
-2	Fandi Prasetya	24050974078
-3	Dhifa Barata Putra	24050974085 
-
+1. Ericha Okti Virlya Meyjie	24050974072
+2. Fandi Prasetya	24050974078
+3. Dhifa Barata Putra	24050974085 
 
 FITUR YANG DIIMPLEMENTASIKAN
 glTranslate - Untuk positioning setiap gedung dan objek
